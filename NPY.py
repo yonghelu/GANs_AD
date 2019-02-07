@@ -29,6 +29,7 @@ test = np.round(test, 2)
 doc = open('1.txt', 'a')  #打开一个存储文件，并依次写入
 print(test, file=doc)
 jjjj
+jjj
 
 
 
