@@ -28,7 +28,7 @@ test = np.load(r'/Users/luyonghe/PycharmProjects/MAD-GANs/experiments/plots/Resu
 test = np.round(test, 2)
 doc = open('1.txt', 'a')  #打开一个存储文件，并依次写入
 print(test, file=doc)
-
+jjjj
 
 
 
